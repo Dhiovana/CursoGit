@@ -2,6 +2,8 @@
 
 void imprimirBob(){
 
+print_f("Bob");
+
 }
 
 int main(){
